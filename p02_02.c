@@ -13,7 +13,7 @@ int main() {
     for (int i = 0; i < N; i++) {
         scanf("%d %d", &stok[i], &kategori[i]);
     }
-
+    
     // 3. Membaca kode kategori yang ingin dihitung totalnya
     int kategoriDicari;
     scanf("%d", &kategoriDicari);

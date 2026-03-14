@@ -33,6 +33,7 @@ int main() {
             luarPulau = 1;
         }
 
+        
         // Hitung Berat dan Ongkos Dasar
         beratUcok = 1.5 * beratButet;
         totalBerat = beratButet + beratUcok;

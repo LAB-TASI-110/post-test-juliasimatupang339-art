@@ -26,7 +26,7 @@ int main() {
     scanf("%d", &jumlah);
 
     float total_biaya = menu_pilihan.harga * jumlah;
-
+    
     printf("\n--- Validasi Transaksi ---\n");
     printf("Total yang harus dibayar: Rp%.2f\n", total_biaya);
 
